@@ -3,7 +3,7 @@
 <!-- METRICS_START -->
 # Usage Statistics
     
-Last updated: 9/29/2025, 12:06:43 AM
+Last updated: 10/6/2025, 12:06:00 AM
 
 Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
     
@@ -11,8 +11,8 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Package | Downloads | Monthly Downloads | Weekly Downloads | Daily Downloads |
 | --- | --- | --- | --- | --- |
-| sailpoint-api-client | 18,254 | 1,085 | 149 | 26 |
-| **Total** | **18,254** | **1,085** | **149** | **26** | | | | |
+| sailpoint-api-client | 18,571 | 1,166 | 317 | 5 |
+| **Total** | **18,571** | **1,166** | **317** | **5** | | | | |
 
 ![./charts/npm/sailpoint-api-client-new-downloads-by-month.svg](./charts/npm/sailpoint-api-client-new-downloads-by-month.svg)
 ![./charts/npm/sailpoint-api-client-cumulative-downloads.svg](./charts/npm/sailpoint-api-client-cumulative-downloads.svg)
@@ -21,60 +21,60 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Repository | Stars | Forks | Watchers | Open Issues | Closed Issues | Total Issues | Release Downloads | Releases | Latest Release | Language |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sailpoint-oss/sailpoint-cli | 37 | 25 | 9 | 6 | 35 | 41 | 10,632 | 31 | 2.2.5 | Go |
-| sailpoint-oss/api-specs | 14 | 21 | 7 | 16 | 12 | 28 | 2,080 | 62 | v2025.09.28-0237 | JavaScript |
-| **Total** | **51** | **46** | **16** | **22** | **47** | **69** | **12,712** | **93** | | |
+| sailpoint-oss/sailpoint-cli | 37 | 25 | 8 | 8 | 35 | 43 | 10,743 | 31 | 2.2.5 | Go |
+| sailpoint-oss/api-specs | 14 | 21 | 6 | 16 | 12 | 28 | 2,328 | 72 | v2025.10.05-0237 | JavaScript |
+| **Total** | **51** | **46** | **14** | **24** | **47** | **71** | **13,071** | **103** | | |
 
 #### Repository Details:
 
 **sailpoint-oss/sailpoint-cli**:
-- Last Activity: 16 days ago
-- Repository Age: 1,165 days
+- Last Activity: 23 days ago
+- Repository Age: 1,172 days
 - Release Count: 31
-- Total Release Downloads: 10,632
+- Total Release Downloads: 10,743
 - Latest Release: 2.2.5
-- Latest Release Downloads: 1,326
-- Views: 452
-- Unique Visitors: 186
-- Clones: 93
+- Latest Release Downloads: 1,411
+- Views: 386
+- Unique Visitors: 160
+- Clones: 87
 - Top Assets (by downloads):
-  - sail_windows_amd64_msi: 2,555
-  - sail_macos_arm64_tar.gz: 1,560
-  - sail_windows_amd64_zip: 1,240
-  - sail_linux_amd64_deb: 1,005
-  - sail_windows_386_zip: 917
+  - sail_windows_amd64_msi: 2,582
+  - sail_macos_arm64_tar.gz: 1,575
+  - sail_windows_amd64_zip: 1,245
+  - sail_linux_amd64_deb: 1,032
+  - sail_windows_386_zip: 941
 - OS Breakdown:
-  - windows: 5,387
-  - linux: 2,809
-  - macos: 2,234
+  - windows: 5,444
+  - linux: 2,844
+  - macos: 2,249
 - Arch Breakdown:
-  - amd64: 5,913
-  - arm64: 2,537
-  - 386: 1,319
+  - amd64: 5,973
+  - arm64: 2,553
+  - 386: 1,343
   - armv6: 316
   - i386: 37
 - Format Breakdown:
-  - tar.gz: 2,994
-  - zip: 2,832
-  - msi: 2,555
-  - deb: 1,464
-  - rpm: 585
+  - tar.gz: 3,016
+  - zip: 2,862
+  - msi: 2,582
+  - deb: 1,491
+  - rpm: 586
 
 **sailpoint-oss/api-specs**:
 - Last Activity: 0 days ago
-- Repository Age: 1,123 days
-- Release Count: 62
-- Total Release Downloads: 2,080
-- Latest Release: v2025.09.28-0237
-- Latest Release Downloads: 25
-- Views: 221
-- Unique Visitors: 38
-- Clones: 431
+- Repository Age: 1,130 days
+- Release Count: 72
+- Total Release Downloads: 2,328
+- Latest Release: v2025.10.05-0237
+- Latest Release Downloads: 24
+- Views: 132
+- Unique Visitors: 41
+- Clones: 265
 - Top Assets (by downloads):
-  - deref.sailpoint: 2,080
+  - deref.sailpoint: 2,328
 - Format Breakdown:
-  - yaml: 1,345
-  - json: 735
+  - yaml: 1,473
+  - json: 855
 
 
 
@@ -92,8 +92,8 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Package | Total Downloads | Monthly Downloads | Weekly Downloads | Daily Downloads | Version |
 | --- | --- | --- | --- | --- | --- |
-| sailpoint | 14,468 | 4,176 | 0 | 0 | 1.3.8 |
-| **Total** | **14,468** | **4,176** | **0** | **0** | | |
+| sailpoint | 14,782 | 4,312 | 0 | 0 | 1.3.8 |
+| **Total** | **14,782** | **4,312** | **0** | **0** | | |
 
 #### Package Details:
 
@@ -104,13 +104,13 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 - Popular installer: pip
 - Releases: 29
 - OS Usage Breakdown 
-  - other: 1030
-  - Darwin: 79
-  - Windows: 57
-  - Linux: 6493
+  - other: 1161
+  - Darwin: 73
+  - Windows: 63
+  - Linux: 6540
 - Python Version Breakdown 
   - python2: 1
-  - python3: 6594
+  - python3: 6637
 
 
 ![./charts/pypi/sailpoint-pypi-overall.svg](./charts/pypi/sailpoint-pypi-overall.svg)
@@ -123,53 +123,53 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Module | Total Downloads | Latest Version | Version Downloads | Versions | Last Updated |
 | --- | --- | --- | --- | --- | --- |
-| PSSailPoint | 21,023 | 1.6.6 | 494 | 32 | 9/28/2025 |
-| PSSailpoint.V3 | 12,159 | 1.6.6 | 531 | 19 | 9/28/2025 |
-| PSSailpoint.Beta | 12,513 | 1.6.6 | 556 | 19 | 9/28/2025 |
-| PSSailpoint.V2024 | 12,143 | 1.6.6 | 515 | 19 | 9/28/2025 |
-| PSSailpoint.V2025 | 1,411 | 1.6.6 | 495 | 8 | 9/28/2025 |
-| **Total** | **59,249** | | | **97** | |
+| PSSailPoint | 21,109 | 1.6.6 | 560 | 32 | 10/4/2025 |
+| PSSailpoint.V3 | 12,232 | 1.6.6 | 604 | 19 | 10/4/2025 |
+| PSSailpoint.Beta | 12,584 | 1.6.6 | 627 | 19 | 10/4/2025 |
+| PSSailpoint.V2024 | 12,214 | 1.6.6 | 586 | 19 | 10/4/2025 |
+| PSSailpoint.V2025 | 1,482 | 1.6.6 | 566 | 8 | 10/4/2025 |
+| **Total** | **59,621** | | | **97** | |
 
 #### PowerShell Module Details:
 
 **PSSailPoint**:
-- Total Downloads: 21,023
+- Total Downloads: 21,109
 - Latest Version: 1.6.6
-- Latest Version Downloads: 494
+- Latest Version Downloads: 560
 - Version Count: 32
-- Last Updated: 9/28/2025
+- Last Updated: 10/4/2025
 - Package Size: 13618 KB
 
 **PSSailpoint.V3**:
-- Total Downloads: 12,159
+- Total Downloads: 12,232
 - Latest Version: 1.6.6
-- Latest Version Downloads: 531
+- Latest Version Downloads: 604
 - Version Count: 19
-- Last Updated: 9/28/2025
+- Last Updated: 10/4/2025
 - Package Size: 1023 KB
 
 **PSSailpoint.Beta**:
-- Total Downloads: 12,513
+- Total Downloads: 12,584
 - Latest Version: 1.6.6
-- Latest Version Downloads: 556
+- Latest Version Downloads: 627
 - Version Count: 19
-- Last Updated: 9/28/2025
+- Last Updated: 10/4/2025
 - Package Size: 1526 KB
 
 **PSSailpoint.V2024**:
-- Total Downloads: 12,143
+- Total Downloads: 12,214
 - Latest Version: 1.6.6
-- Latest Version Downloads: 515
+- Latest Version Downloads: 586
 - Version Count: 19
-- Last Updated: 9/28/2025
+- Last Updated: 10/4/2025
 - Package Size: 1881 KB
 
 **PSSailpoint.V2025**:
-- Total Downloads: 1,411
+- Total Downloads: 1,482
 - Latest Version: 1.6.6
-- Latest Version Downloads: 495
+- Latest Version Downloads: 566
 - Version Count: 8
-- Last Updated: 9/28/2025
+- Last Updated: 10/4/2025
 - Package Size: 1923 KB
 
 
