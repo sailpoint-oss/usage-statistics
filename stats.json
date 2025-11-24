@@ -2,12 +2,12 @@
   {
     "platform": "NPM",
     "name": "sailpoint-api-client",
-    "timestamp": "2025-11-17T00:04:33.901Z",
+    "timestamp": "2025-11-24T00:04:57.486Z",
     "metrics": {
-      "downloadsTotal": 19737,
-      "downloadsMonthly": 870,
-      "downloadsWeekly": 139,
-      "downloadsDaily": 5,
+      "downloadsTotal": 19899,
+      "downloadsMonthly": 908,
+      "downloadsWeekly": 162,
+      "downloadsDaily": 6,
       "downloadsRange": [
         {
           "downloads": 0,
@@ -3974,12 +3974,40 @@
           "day": "2025-11-15"
         },
         {
-          "downloads": 0,
+          "downloads": 3,
           "day": "2025-11-16"
         },
         {
-          "downloads": 0,
+          "downloads": 9,
           "day": "2025-11-17"
+        },
+        {
+          "downloads": 15,
+          "day": "2025-11-18"
+        },
+        {
+          "downloads": 34,
+          "day": "2025-11-19"
+        },
+        {
+          "downloads": 55,
+          "day": "2025-11-20"
+        },
+        {
+          "downloads": 40,
+          "day": "2025-11-21"
+        },
+        {
+          "downloads": 6,
+          "day": "2025-11-22"
+        },
+        {
+          "downloads": 0,
+          "day": "2025-11-23"
+        },
+        {
+          "downloads": 0,
+          "day": "2025-11-24"
         }
       ]
     }
@@ -3987,7 +4015,7 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/sailpoint-cli",
-    "timestamp": "2025-11-17T00:04:33.862Z",
+    "timestamp": "2025-11-24T00:04:57.698Z",
     "metrics": {
       "stars": 36,
       "forks": 27,
@@ -3996,20 +4024,20 @@
       "openIssues": 8,
       "closedIssues": 35,
       "language": "Go",
-      "size": 89082,
-      "repositoryAge": 1214,
-      "lastActivity": 65,
+      "size": 89098,
+      "repositoryAge": 1221,
+      "lastActivity": 3,
       "releaseCount": 31,
-      "totalReleaseDownloads": 11340,
-      "latestReleaseDownloads": 1869,
-      "viewsCount": 348,
-      "uniqueVisitors": 162,
+      "totalReleaseDownloads": 11409,
+      "latestReleaseDownloads": 1934,
+      "viewsCount": 378,
+      "uniqueVisitors": 168,
       "latestRelease": "2.2.5",
-      "clonesCount": 76,
+      "clonesCount": 46,
       "topics": 6,
       "license": "MIT License",
       "defaultBranch": "main",
-      "downloadsTotal": 11340,
+      "downloadsTotal": 11409,
       "downloadRange": [
         {
           "day": "2022-08-19T20:12:00Z",
@@ -4143,17 +4171,17 @@
         },
         {
           "day": "2025-04-02T19:24:30Z",
-          "downloads": 366,
+          "downloads": 367,
           "tagName": "2.1.10"
         },
         {
           "day": "2025-04-16T16:25:17Z",
-          "downloads": 147,
+          "downloads": 149,
           "tagName": "2.2.2"
         },
         {
           "day": "2025-04-21T10:31:57Z",
-          "downloads": 463,
+          "downloads": 464,
           "tagName": "2.2.3"
         },
         {
@@ -4163,30 +4191,30 @@
         },
         {
           "day": "2025-06-03T14:37:59Z",
-          "downloads": 1869,
+          "downloads": 1934,
           "tagName": "2.2.5"
         }
       ],
       "assetTotalsByName": {
-        "sail_macos_arm64_tar.gz": 1654,
-        "sail_linux_i386_tar.gz": 17,
+        "sail_macos_arm64_tar.gz": 1664,
+        "sail_linux_i386_tar.gz": 18,
         "sail_linux_armv6_tar.gz": 100,
-        "sail_linux_tar.gz": 48,
+        "sail_linux_tar.gz": 52,
         "sail_linux_arm64_tar.gz": 187,
-        "sail_windows_386_zip": 1078,
+        "sail_windows_386_zip": 1102,
         "sail_windows_arm64_zip": 429,
-        "sail_macos_tar.gz": 103,
+        "sail_macos_tar.gz": 105,
         "sail_linux_386_deb": 178,
-        "sail_linux_arm64_deb": 199,
-        "sail_linux_amd64_deb": 1072,
-        "sail_linux_armv6_deb": 112,
+        "sail_linux_arm64_deb": 200,
+        "sail_linux_amd64_deb": 1075,
+        "sail_linux_armv6_deb": 113,
         "sail_linux_386_rpm": 141,
         "sail_linux_armv6_rpm": 125,
         "sail_linux_amd64_rpm": 236,
         "sail_linux_arm64_rpm": 129,
-        "sail_txt": 197,
-        "sail_windows_amd64_zip": 1276,
-        "sail_windows_amd64_msi": 2748,
+        "sail_txt": 198,
+        "sail_windows_amd64_zip": 1279,
+        "sail_windows_amd64_msi": 2767,
         "sail_windows_i386_zip": 27,
         "sail_windows_zip": 184,
         "sail_macos_amd64_tar.gz": 542,
@@ -4212,7 +4240,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 298
+            "downloads": 307
           },
           {
             "tagName": "2.2.4",
@@ -4232,7 +4260,7 @@
           {
             "tagName": "2.1.10",
             "day": "2025-04-02T19:24:30Z",
-            "downloads": 41
+            "downloads": 42
           },
           {
             "tagName": "2.1.9",
@@ -4364,7 +4392,7 @@
           {
             "tagName": "2.2.2",
             "day": "2025-04-16T16:25:17Z",
-            "downloads": 3
+            "downloads": 4
           }
         ],
         "sail_linux_armv6_tar.gz": [
@@ -4463,7 +4491,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 21
+            "downloads": 25
           },
           {
             "tagName": "2.2.4",
@@ -4622,7 +4650,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 595
+            "downloads": 619
           },
           {
             "tagName": "2.2.4",
@@ -4841,7 +4869,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 70
+            "downloads": 72
           },
           {
             "tagName": "2.2.4",
@@ -4970,7 +4998,7 @@
           {
             "tagName": "2.2.2",
             "day": "2025-04-16T16:25:17Z",
-            "downloads": 4
+            "downloads": 5
           },
           {
             "tagName": "2.1.10",
@@ -5047,7 +5075,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 114
+            "downloads": 117
           },
           {
             "tagName": "2.2.4",
@@ -5149,7 +5177,7 @@
           {
             "tagName": "2.2.3",
             "day": "2025-04-21T10:31:57Z",
-            "downloads": 2
+            "downloads": 3
           },
           {
             "tagName": "2.2.2",
@@ -5599,7 +5627,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 24
+            "downloads": 25
           },
           {
             "tagName": "2.2.4",
@@ -5736,7 +5764,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 104
+            "downloads": 107
           },
           {
             "tagName": "2.2.4",
@@ -5863,7 +5891,7 @@
           {
             "tagName": "2.2.5",
             "day": "2025-06-03T14:37:59Z",
-            "downloads": 478
+            "downloads": 497
           },
           {
             "tagName": "2.2.4",
@@ -6401,25 +6429,25 @@
         ]
       },
       "assetTotalsByParsedKey": {
-        "sail_macos_arm64_tar.gz": 1654,
-        "sail_linux_i386_tar.gz": 17,
+        "sail_macos_arm64_tar.gz": 1664,
+        "sail_linux_i386_tar.gz": 18,
         "sail_linux_armv6_tar.gz": 100,
-        "sail_linux_tar.gz": 48,
+        "sail_linux_tar.gz": 52,
         "sail_linux_arm64_tar.gz": 187,
-        "sail_windows_386_zip": 1078,
+        "sail_windows_386_zip": 1102,
         "sail_windows_arm64_zip": 429,
-        "sail_macos_tar.gz": 103,
+        "sail_macos_tar.gz": 105,
         "sail_linux_386_deb": 178,
-        "sail_linux_arm64_deb": 199,
-        "sail_linux_amd64_deb": 1072,
-        "sail_linux_armv6_deb": 112,
+        "sail_linux_arm64_deb": 200,
+        "sail_linux_amd64_deb": 1075,
+        "sail_linux_armv6_deb": 113,
         "sail_linux_386_rpm": 141,
         "sail_linux_armv6_rpm": 125,
         "sail_linux_amd64_rpm": 236,
         "sail_linux_arm64_rpm": 129,
-        "sail_txt": 197,
-        "sail_windows_amd64_zip": 1276,
-        "sail_windows_amd64_msi": 2748,
+        "sail_txt": 198,
+        "sail_windows_amd64_zip": 1279,
+        "sail_windows_amd64_msi": 2767,
         "sail_windows_i386_zip": 27,
         "sail_windows_zip": 184,
         "sail_macos_amd64_tar.gz": 542,
@@ -6441,34 +6469,34 @@
         "connector_txt": 10
       },
       "totalsByOs": {
-        "macos": 2346,
-        "linux": 2986,
-        "windows": 5796
+        "macos": 2358,
+        "linux": 2996,
+        "windows": 5842
       },
       "totalsByArch": {
-        "386": 1511,
-        "arm64": 2672,
-        "i386": 44,
-        "armv6": 337,
-        "amd64": 6229
+        "386": 1535,
+        "arm64": 2683,
+        "i386": 45,
+        "armv6": 338,
+        "amd64": 6254
       },
       "totalsByFormat": {
-        "tar.gz": 3140,
-        "zip": 3048,
-        "deb": 1561,
+        "tar.gz": 3157,
+        "zip": 3075,
+        "deb": 1566,
         "rpm": 631,
-        "txt": 212,
-        "msi": 2748
+        "txt": 213,
+        "msi": 2767
       },
       "totalsByVariant": {},
       "attributeReleaseSeries": {
         "os": {
           "macos": {
-            "2.2.5": 368,
+            "2.2.5": 379,
             "2.2.4": 59,
             "2.2.3": 91,
             "2.2.2": 25,
-            "2.1.10": 54,
+            "2.1.10": 55,
             "2.1.9": 301,
             "2.1.8": 148,
             "2.1.7": 30,
@@ -6496,10 +6524,10 @@
             "0.0.2": 18
           },
           "linux": {
-            "2.2.5": 283,
+            "2.2.5": 290,
             "2.2.4": 190,
-            "2.2.3": 127,
-            "2.2.2": 69,
+            "2.2.3": 128,
+            "2.2.2": 71,
             "2.1.10": 135,
             "2.1.9": 248,
             "2.1.8": 138,
@@ -6528,7 +6556,7 @@
             "0.0.2": 22
           },
           "windows": {
-            "2.2.5": 1194,
+            "2.2.5": 1240,
             "2.2.4": 215,
             "2.2.3": 233,
             "2.2.2": 50,
@@ -6562,7 +6590,7 @@
         },
         "arch": {
           "386": {
-            "2.2.5": 628,
+            "2.2.5": 652,
             "2.2.4": 93,
             "2.2.3": 10,
             "2.2.2": 12,
@@ -6582,11 +6610,11 @@
             "1.1.16": 28
           },
           "arm64": {
-            "2.2.5": 360,
+            "2.2.5": 369,
             "2.2.4": 70,
             "2.2.3": 165,
-            "2.2.2": 50,
-            "2.1.10": 63,
+            "2.2.2": 51,
+            "2.1.10": 64,
             "2.1.9": 349,
             "2.1.8": 147,
             "2.1.7": 33,
@@ -6617,12 +6645,12 @@
             "2.2.5": 7,
             "2.2.4": 3,
             "2.2.3": 20,
-            "2.2.2": 14
+            "2.2.2": 15
           },
           "armv6": {
             "2.2.5": 14,
             "2.2.4": 18,
-            "2.2.3": 9,
+            "2.2.3": 10,
             "2.2.2": 15,
             "2.1.10": 17,
             "2.1.9": 11,
@@ -6640,7 +6668,7 @@
             "1.1.16": 21
           },
           "amd64": {
-            "2.2.5": 745,
+            "2.2.5": 770,
             "2.2.4": 263,
             "2.2.3": 59,
             "2.2.2": 14,
@@ -6674,11 +6702,11 @@
         },
         "format": {
           "tar.gz": {
-            "2.2.5": 411,
+            "2.2.5": 426,
             "2.2.4": 75,
             "2.2.3": 112,
-            "2.2.2": 46,
-            "2.1.10": 86,
+            "2.2.2": 47,
+            "2.1.10": 87,
             "2.1.9": 352,
             "2.1.8": 173,
             "2.1.7": 43,
@@ -6706,7 +6734,7 @@
             "0.0.2": 40
           },
           "zip": {
-            "2.2.5": 716,
+            "2.2.5": 743,
             "2.2.4": 110,
             "2.2.3": 233,
             "2.2.2": 50,
@@ -6738,10 +6766,10 @@
             "0.0.2": 22
           },
           "deb": {
-            "2.2.5": 167,
+            "2.2.5": 170,
             "2.2.4": 141,
-            "2.2.3": 72,
-            "2.2.2": 18,
+            "2.2.3": 73,
+            "2.2.2": 19,
             "2.1.10": 79,
             "2.1.9": 169,
             "2.1.8": 90,
@@ -6778,7 +6806,7 @@
             "1.1.16": 28
           },
           "txt": {
-            "2.2.5": 24,
+            "2.2.5": 25,
             "2.2.4": 7,
             "2.2.3": 12,
             "2.2.2": 3,
@@ -6810,7 +6838,7 @@
             "0.0.2": 5
           },
           "msi": {
-            "2.2.5": 478,
+            "2.2.5": 497,
             "2.2.4": 105,
             "2.1.10": 129,
             "2.1.9": 355,
@@ -7056,25 +7084,25 @@
   {
     "platform": "GitHub",
     "name": "sailpoint-oss/api-specs",
-    "timestamp": "2025-11-17T00:04:36.438Z",
+    "timestamp": "2025-11-24T00:04:59.984Z",
     "metrics": {
       "stars": 15,
       "forks": 21,
       "watchers": 5,
       "totalIssues": 29,
-      "openIssues": 17,
-      "closedIssues": 12,
+      "openIssues": 16,
+      "closedIssues": 13,
       "language": "JavaScript",
-      "size": 445269,
-      "repositoryAge": 1172,
+      "size": 449138,
+      "repositoryAge": 1179,
       "lastActivity": 0,
       "releaseCount": 0,
       "totalReleaseDownloads": 0,
       "latestReleaseDownloads": 0,
-      "viewsCount": 240,
-      "uniqueVisitors": 56,
+      "viewsCount": 149,
+      "uniqueVisitors": 52,
       "latestRelease": null,
-      "clonesCount": 393,
+      "clonesCount": 317,
       "topics": 1,
       "license": "MIT License",
       "defaultBranch": "main",
@@ -7100,20 +7128,20 @@
   {
     "platform": "PyPI",
     "name": "sailpoint",
-    "timestamp": "2025-11-17T00:04:33.540Z",
+    "timestamp": "2025-11-24T00:04:57.128Z",
     "metrics": {},
-    "error": "Request failed 500: https://pypistats.dev/api/packages/sailpoint/summary"
+    "error": "Request failed 500: https://pypistats.dev/api/packages/sailpoint/recent"
   },
   {
     "platform": "PowerShell",
     "name": "PSSailPoint",
-    "timestamp": "2025-11-17T00:04:33.537Z",
+    "timestamp": "2025-11-24T00:04:58.561Z",
     "metrics": {
-      "downloadsTotal": 21700,
+      "downloadsTotal": 21813,
       "downloadsRange": [
         {
           "day": "2025-11-03T15:01:25.903Z",
-          "downloads": 85,
+          "downloads": 142,
           "version": "1.6.7"
         },
         {
@@ -7208,7 +7236,7 @@
         },
         {
           "day": "2024-07-15T12:48:38.457Z",
-          "downloads": 3059,
+          "downloads": 3115,
           "version": "1.3.2"
         },
         {
@@ -7277,11 +7305,11 @@
           "version": "1.0.0"
         }
       ],
-      "latestVersionDownloads": 85,
+      "latestVersionDownloads": 142,
       "latestVersion": "1.6.7",
       "latestVersionDate": "2025-11-03T15:01:25.903Z",
       "versionCount": 33,
-      "lastUpdated": "2025-11-14T19:00:00.363Z",
+      "lastUpdated": "2025-11-23T13:10:00.370Z",
       "authors": "Sailpoint Developer Relations",
       "description": "PSSailpoint - the PowerShell module for IdentityNow",
       "packageSize": 14095887,
@@ -7292,13 +7320,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V3",
-    "timestamp": "2025-11-17T00:04:32.247Z",
+    "timestamp": "2025-11-24T00:04:57.125Z",
     "metrics": {
-      "downloadsTotal": 12714,
+      "downloadsTotal": 12779,
       "downloadsRange": [
         {
           "day": "2025-11-03T14:59:11.500Z",
-          "downloads": 92,
+          "downloads": 157,
           "version": "1.6.7"
         },
         {
@@ -7397,11 +7425,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 92,
+      "latestVersionDownloads": 157,
       "latestVersion": "1.6.7",
       "latestVersionDate": "2025-11-03T14:59:11.500Z",
       "versionCount": 20,
-      "lastUpdated": "2025-11-14T19:00:00.363Z",
+      "lastUpdated": "2025-11-23T12:50:00.250Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V3 - the PowerShell module for Identity Security Cloud V3 API",
       "packageSize": 1033544,
@@ -7412,13 +7440,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.Beta",
-    "timestamp": "2025-11-17T00:04:32.677Z",
+    "timestamp": "2025-11-24T00:04:58.738Z",
     "metrics": {
-      "downloadsTotal": 13105,
+      "downloadsTotal": 13173,
       "downloadsRange": [
         {
           "day": "2025-11-03T14:59:05.600Z",
-          "downloads": 100,
+          "downloads": 168,
           "version": "1.6.7"
         },
         {
@@ -7517,11 +7545,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 100,
+      "latestVersionDownloads": 168,
       "latestVersion": "1.6.7",
       "latestVersionDate": "2025-11-03T14:59:05.600Z",
       "versionCount": 20,
-      "lastUpdated": "2025-11-14T19:00:00.363Z",
+      "lastUpdated": "2025-11-23T12:40:00.290Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.Beta - the PowerShell module for Identity Security Cloud Beta API",
       "packageSize": 1543848,
@@ -7532,13 +7560,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V2024",
-    "timestamp": "2025-11-17T00:04:32.488Z",
+    "timestamp": "2025-11-24T00:04:57.389Z",
     "metrics": {
-      "downloadsTotal": 12692,
+      "downloadsTotal": 12756,
       "downloadsRange": [
         {
           "day": "2025-11-03T14:59:18.880Z",
-          "downloads": 93,
+          "downloads": 157,
           "version": "1.6.7"
         },
         {
@@ -7637,11 +7665,11 @@
           "version": "1.4.3"
         }
       ],
-      "latestVersionDownloads": 93,
+      "latestVersionDownloads": 157,
       "latestVersion": "1.6.7",
       "latestVersionDate": "2025-11-03T14:59:18.880Z",
       "versionCount": 20,
-      "lastUpdated": "2025-11-14T19:00:00.363Z",
+      "lastUpdated": "2025-11-23T12:50:00.250Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V2024 - the PowerShell module for Identity Security Cloud V2024 API",
       "packageSize": 1936848,
@@ -7652,13 +7680,13 @@
   {
     "platform": "PowerShell",
     "name": "PSSailpoint.V2025",
-    "timestamp": "2025-11-17T00:04:32.125Z",
+    "timestamp": "2025-11-24T00:04:57.017Z",
     "metrics": {
-      "downloadsTotal": 1939,
+      "downloadsTotal": 2000,
       "downloadsRange": [
         {
           "day": "2025-11-03T14:59:24.177Z",
-          "downloads": 91,
+          "downloads": 152,
           "version": "1.6.7"
         },
         {
@@ -7702,11 +7730,11 @@
           "version": "1.5.0"
         }
       ],
-      "latestVersionDownloads": 91,
+      "latestVersionDownloads": 152,
       "latestVersion": "1.6.7",
       "latestVersionDate": "2025-11-03T14:59:24.177Z",
       "versionCount": 9,
-      "lastUpdated": "2025-11-14T19:00:00.363Z",
+      "lastUpdated": "2025-11-23T13:00:00.413Z",
       "authors": "OpenAPI Generator Team",
       "description": "PSSailpoint.V2025 - the PowerShell module for Identity Security Cloud V2025 API",
       "packageSize": 2060143,
