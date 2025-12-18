@@ -3,7 +3,7 @@
 <!-- METRICS_START -->
 # Usage Statistics
     
-Last updated: 12/15/2025, 12:04:45 AM
+Last updated: 12/18/2025, 9:47:37 PM
 
 Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
     
@@ -11,8 +11,8 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Package | Downloads | Monthly Downloads | Weekly Downloads | Daily Downloads |
 | --- | --- | --- | --- | --- |
-| sailpoint-api-client | 20,275 | 558 | 116 | 2 |
-| **Total** | **20,275** | **558** | **116** | **2** | | | | |
+| sailpoint-api-client | 20,367 | 618 | 151 | 27 |
+| **Total** | **20,367** | **618** | **151** | **27** | | | | |
 
 ![./charts/npm/sailpoint-api-client-new-downloads-by-month.svg](./charts/npm/sailpoint-api-client-new-downloads-by-month.svg)
 ![./charts/npm/sailpoint-api-client-cumulative-downloads.svg](./charts/npm/sailpoint-api-client-cumulative-downloads.svg)
@@ -56,14 +56,24 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Package | Total Downloads | Monthly Downloads | Weekly Downloads | Daily Downloads | Version |
 | --- | --- | --- | --- | --- | --- |
-| sailpoint | 0 | 0 | 0 | 0 | N/A |
-| **Total** | **0** | **0** | **0** | **0** | | |
+| sailpoint | 67,268 | 18,051 | 5,634 | 678 | 1.4.0 |
+| **Total** | **67,268** | **18,051** | **5,634** | **678** | | |
 
 #### Package Details:
 
 **sailpoint**:
-- Version: N/A
-- Releases: 0
+- Version: 1.4.0
+- Released: 2025-11-05
+- Popular system: Linux
+- Popular installer: pip
+- Releases: 31
+- OS Usage Breakdown 
+  - other: 2102
+  - Darwin: 134
+  - Windows: 131
+  - Linux: 32118
+- Python Version Breakdown 
+  - python3: 32328
 
 
 ![./charts/pypi/sailpoint-pypi-overall.svg](./charts/pypi/sailpoint-pypi-overall.svg)
@@ -76,53 +86,53 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Module | Total Downloads | Latest Version | Version Downloads | Versions | Last Updated |
 | --- | --- | --- | --- | --- | --- |
-| PSSailPoint | 22,599 | 1.6.7 | 838 | 33 | 12/14/2025 |
-| PSSailpoint.V3 | 13,484 | 1.6.7 | 862 | 20 | 12/14/2025 |
-| PSSailpoint.Beta | 13,880 | 1.6.7 | 875 | 20 | 12/14/2025 |
-| PSSailpoint.V2024 | 13,458 | 1.6.7 | 859 | 20 | 12/14/2025 |
-| PSSailpoint.V2025 | 2,697 | 1.6.7 | 849 | 9 | 12/14/2025 |
-| **Total** | **66,118** | | | **102** | |
+| PSSailPoint | 22,838 | 1.6.7 | 1,059 | 33 | 12/18/2025 |
+| PSSailpoint.V3 | 13,709 | 1.6.7 | 1,087 | 20 | 12/18/2025 |
+| PSSailpoint.Beta | 14,107 | 1.6.7 | 1,102 | 20 | 12/18/2025 |
+| PSSailpoint.V2024 | 13,689 | 1.6.7 | 1,090 | 20 | 12/18/2025 |
+| PSSailpoint.V2025 | 2,920 | 1.6.7 | 1,072 | 9 | 12/18/2025 |
+| **Total** | **67,263** | | | **102** | |
 
 #### PowerShell Module Details:
 
 **PSSailPoint**:
-- Total Downloads: 22,599
+- Total Downloads: 22,838
 - Latest Version: 1.6.7
-- Latest Version Downloads: 838
+- Latest Version Downloads: 1,059
 - Version Count: 33
-- Last Updated: 12/14/2025
+- Last Updated: 12/18/2025
 - Package Size: 13766 KB
 
 **PSSailpoint.V3**:
-- Total Downloads: 13,484
+- Total Downloads: 13,709
 - Latest Version: 1.6.7
-- Latest Version Downloads: 862
+- Latest Version Downloads: 1,087
 - Version Count: 20
-- Last Updated: 12/14/2025
+- Last Updated: 12/18/2025
 - Package Size: 1009 KB
 
 **PSSailpoint.Beta**:
-- Total Downloads: 13,880
+- Total Downloads: 14,107
 - Latest Version: 1.6.7
-- Latest Version Downloads: 875
+- Latest Version Downloads: 1,102
 - Version Count: 20
-- Last Updated: 12/14/2025
+- Last Updated: 12/18/2025
 - Package Size: 1508 KB
 
 **PSSailpoint.V2024**:
-- Total Downloads: 13,458
+- Total Downloads: 13,689
 - Latest Version: 1.6.7
-- Latest Version Downloads: 859
+- Latest Version Downloads: 1,090
 - Version Count: 20
-- Last Updated: 12/14/2025
+- Last Updated: 12/18/2025
 - Package Size: 1891 KB
 
 **PSSailpoint.V2025**:
-- Total Downloads: 2,697
+- Total Downloads: 2,920
 - Latest Version: 1.6.7
-- Latest Version Downloads: 849
+- Latest Version Downloads: 1,072
 - Version Count: 9
-- Last Updated: 12/14/2025
+- Last Updated: 12/18/2025
 - Package Size: 2012 KB
 
 
