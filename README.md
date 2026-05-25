@@ -3,7 +3,7 @@
 <!-- METRICS_START -->
 # Usage Statistics
     
-Last updated: 5/18/2026, 12:20:12 AM
+Last updated: 5/25/2026, 12:22:28 AM
 
 Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
     
@@ -11,8 +11,8 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Package | Downloads | Monthly Downloads | Weekly Downloads | Daily Downloads |
 | --- | --- | --- | --- | --- |
-| sailpoint-api-client | 35,504 | 5,497 | 1,558 | 46 |
-| **Total** | **35,504** | **5,497** | **1,558** | **46** | | | | |
+| sailpoint-api-client | 36,744 | 5,344 | 1,240 | 70 |
+| **Total** | **36,744** | **5,344** | **1,240** | **70** | | | | |
 
 ![./charts/npm/sailpoint-api-client-new-downloads-by-month.svg](./charts/npm/sailpoint-api-client-new-downloads-by-month.svg)
 ![./charts/npm/sailpoint-api-client-cumulative-downloads.svg](./charts/npm/sailpoint-api-client-cumulative-downloads.svg)
@@ -21,55 +21,55 @@ Below are stats from artifacts tracked across NPM, GitHub, PyPI and PowerShell.
 
 | Repository | Stars | Forks | Watchers | Open Issues | Closed Issues | Total Issues | Release Downloads | Releases | Latest Release | Language |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| sailpoint-oss/sailpoint-cli | 43 | 30 | 8 | 11 | 35 | 46 | 14,226 | 32 | 2.2.10 | Go |
-| sailpoint-oss/api-specs | 17 | 22 | 5 | 16 | 13 | 29 | 0 | 0 | N/A | JavaScript |
-| **Total** | **60** | **52** | **13** | **27** | **48** | **75** | **14,226** | **32** | | |
+| sailpoint-oss/sailpoint-cli | 43 | 32 | 8 | 11 | 35 | 46 | 14,370 | 32 | 2.2.10 | Go |
+| sailpoint-oss/api-specs | 17 | 23 | 5 | 16 | 13 | 29 | 0 | 0 | N/A | JavaScript |
+| **Total** | **60** | **55** | **13** | **27** | **48** | **75** | **14,370** | **32** | | |
 
 #### Repository Details:
 
 **sailpoint-oss/sailpoint-cli**:
-- Last Activity: 89 days ago
-- Repository Age: 1,396 days
+- Last Activity: 96 days ago
+- Repository Age: 1,403 days
 - Release Count: 32
-- Total Release Downloads: 14,226
+- Total Release Downloads: 14,370
 - Latest Release: 2.2.10
-- Latest Release Downloads: 2,074
-- Views: 268
-- Unique Visitors: 137
-- Clones: 330
+- Latest Release Downloads: 2,214
+- Views: 302
+- Unique Visitors: 127
+- Clones: 273
 - Top Assets (by downloads):
-  - sail_windows_amd64_msi: 3,663
-  - sail_macos_arm64_tar.gz: 2,080
-  - sail_windows_386_zip: 1,758
-  - sail_windows_amd64_zip: 1,407
-  - sail_linux_amd64_deb: 1,353
+  - sail_windows_amd64_msi: 3,709
+  - sail_macos_arm64_tar.gz: 2,095
+  - sail_windows_386_zip: 1,778
+  - sail_windows_amd64_zip: 1,418
+  - sail_linux_amd64_deb: 1,365
 - OS Breakdown:
-  - windows: 7,547
-  - linux: 3,618
-  - macos: 2,797
+  - windows: 7,625
+  - linux: 3,663
+  - macos: 2,817
 - Arch Breakdown:
-  - amd64: 7,616
-  - arm64: 3,176
-  - 386: 2,261
-  - armv6: 368
+  - amd64: 7,685
+  - arm64: 3,204
+  - 386: 2,281
+  - armv6: 369
   - i386: 47
 - Format Breakdown:
-  - zip: 3,884
-  - tar.gz: 3,747
-  - msi: 3,663
-  - deb: 1,891
-  - rpm: 777
+  - zip: 3,916
+  - tar.gz: 3,797
+  - msi: 3,709
+  - deb: 1,904
+  - rpm: 779
 
 **sailpoint-oss/api-specs**:
 - Last Activity: 0 days ago
-- Repository Age: 1,354 days
+- Repository Age: 1,361 days
 - Release Count: 0
 - Total Release Downloads: 0
 - Latest Release: N/A
 - Latest Release Downloads: 0
-- Views: 91
-- Unique Visitors: 35
-- Clones: 952
+- Views: 246
+- Unique Visitors: 43
+- Clones: 972
 
 
 
